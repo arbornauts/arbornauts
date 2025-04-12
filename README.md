@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @arbornauts
-- 👀 I’m interested in program analysis, ai and novel visualizations
-- 🌱 I’m currently learning to build Agentic Software
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in systems, networks and markets.
+- 🌱 I’m currently learning to build compositors and agentic software.
+- 💞️ I’m looking to collaborate on giving hackers superpowers while accessing systems, networks and markets.
+- 📫 How to reach me <TBD>.
 - 😄 Pronouns: beep, boop
 - ⚡ Fun fact: we explore trees! 
 
